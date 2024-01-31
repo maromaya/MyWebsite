@@ -1,0 +1,37 @@
+
+.Title {
+	color: lightblue;
+	font-size: 18px; 
+}
+
+.links{
+	margin: auto;
+	padding: 20px; 
+}
+
+.hobbies, .about {
+	font-family: Helvetica;
+}
+
+.list1{
+	border: 5px solid plum;
+	width: 100px;
+	padding: 50px;
+}
+
+.list2{
+	border: 5px solid coral;
+	width: 100px;
+	padding: 50px;
+}
+
+.list3{
+	border: 5px solid DarkSeaGreen;
+	width: 100px;
+	padding: 50px;
+}
+
+
+.table {
+	font-weight: bold; 
+}
